@@ -1,6 +1,6 @@
 # Project Destiny
 
-A 2D pixel-art action RPG inspired by classic fantasy adventure games and anime aesthetics.
+A 2D pixel-art action RPG inspired by classic fantasy adventure games.
 Built in Java using Swing and object-oriented programming principles.
 
 <img width="1536" height="1024" alt="destiny" src="https://github.com/user-attachments/assets/1d282f5d-c71e-4a5a-9703-a776513e4a26" />
