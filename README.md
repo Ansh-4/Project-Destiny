@@ -1,6 +1,31 @@
-# Project-Destiny
-Swing based 2-D Adventure Game
-<img width="512" height="512" alt="destiny" src="https://github.com/user-attachments/assets/08222b30-cd23-4496-8547-699e64ac4510" />
+# Project Destiny
 
-Day 1 
-<img width="1919" height="1079" alt="1st window" src="https://github.com/user-attachments/assets/c46ebf25-bfcc-47d2-b3a6-1e812b8aa4a2" />
+A 2D pixel-art action RPG inspired by classic fantasy adventure games and anime aesthetics.
+Built in Java using Swing and object-oriented programming principles.
+
+<img width="1536" height="1024" alt="destiny" src="https://github.com/user-attachments/assets/1d282f5d-c71e-4a5a-9703-a776513e4a26" />
+
+
+---
+
+## 🎮 About The Game
+
+**Project Destiny** is a retro-style 2D game featuring:
+
+* Pixel-art graphics
+* Sword combat
+* Exploration
+* Fantasy-inspired worldbuilding
+* Smooth character movement and animations
+
+The game is being developed as a personal learning project to improve:
+
+* Java programming
+* Game development concepts
+* Object-Oriented Programming
+* GUI systems
+* Collision and animation systems
+
+Development Timeline
+Day 1- 
+<img width="1919" height="1079" alt="1st window" src="https://github.com/user-attachments/assets/c4024be0-c614-49b4-83da-8e1970450c66" />
