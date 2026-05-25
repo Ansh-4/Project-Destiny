@@ -29,3 +29,11 @@ The game is being developed as a personal learning project to improve:
 Development Timeline
 Day 1- 
 <img width="1919" height="1079" alt="1st window" src="https://github.com/user-attachments/assets/c4024be0-c614-49b4-83da-8e1970450c66" />
+Day 2 -
+<img width="605" height="474" alt="game loop" src="https://github.com/user-attachments/assets/bf1c9607-c66c-41d7-ac03-8ce9e26c15b3" />
+
+
+https://github.com/user-attachments/assets/2a2f1bd6-119a-40b9-bed6-ae3194c03f36
+
+
+
