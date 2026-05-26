@@ -17,4 +17,5 @@ DAY 2 - implemented the main game loop with update and repaint. Then using java'
         to solve this, i coded the fps and body of the repaint() method of game loop which would keep track of the remaining time and make the thread itself sleep after the 
         fixed time. This allowed the rectangle to actually be visible upon input in  the panel.
         Finally coded the FPS to be displayed in the panel.
-        
+DAY 3 - Created custom pixel character and coded the pixel character to the panel.
+        Implemented classic sprite animations to the character when it moves in a particular direction.
