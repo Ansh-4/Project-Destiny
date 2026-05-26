@@ -36,4 +36,10 @@ https://github.com/user-attachments/assets/2a2f1bd6-119a-40b9-bed6-ae3194c03f36
 
 <img width="605" height="474" alt="game loop" src="https://github.com/user-attachments/assets/bf1c9607-c66c-41d7-ac03-8ce9e26c15b3" />
 
+Day 3 - 
+
+https://github.com/user-attachments/assets/6f860fad-56f7-47ec-8f8d-81126f310dcf
+
+
+
 
