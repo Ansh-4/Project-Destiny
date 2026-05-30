@@ -19,3 +19,5 @@ DAY 2 - implemented the main game loop with update and repaint. Then using java'
         Finally coded the FPS to be displayed in the panel.
 DAY 3 - Created custom pixel character and coded the pixel character to the panel.
         Implemented classic sprite animations to the character when it moves in a particular direction.
+DAY 4 - Coded in the class for tiles and a separate tile manager for the game. 
+        Created a maps package in resources and added a test map using tile images.
